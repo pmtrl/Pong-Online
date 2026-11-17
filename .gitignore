@@ -1,0 +1,20 @@
+# Dépendances (réinstallables avec `npm install`)
+node_modules/
+
+# Secrets et configuration locale
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Fichiers de build
+dist/
+build/
+
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

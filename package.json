@@ -1,0 +1,14 @@
+{
+  "name": "pong-online",
+  "version": "1.0.0",
+  "description": "An online pong game to play in 1v1 with a friend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test":"echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
